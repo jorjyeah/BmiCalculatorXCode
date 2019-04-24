@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // test insert new line to github
+    // jorjyeah was here
     @IBOutlet weak var weight: UILabel!
     @IBOutlet weak var height: UILabel!
     @IBOutlet weak var result: UILabel!
